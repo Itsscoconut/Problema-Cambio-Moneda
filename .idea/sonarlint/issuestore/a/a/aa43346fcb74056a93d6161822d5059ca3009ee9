@@ -1,0 +1,8 @@
+
++
+java:S1700"Rename field "window"(àŠÊ¨
+l	java:S116"RRename this field "tf_cant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãĞÅùÿÿÿÿ
+m	java:S116"SRename this field "lbl_cant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿüåäúÿÿÿÿ
+k	java:S116"VRename this field "btn_retirar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”úŸ§
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÁŞÃôüÿÿÿÿ
